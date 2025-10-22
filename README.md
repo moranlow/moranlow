@@ -50,7 +50,8 @@
 
 ###
 
-<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matvei%20Khitrin-blue?logo=linkedin)](https://www.linkedin.com/in/matvei-khitrin-518b9725b/)<br>[![Email](https://img.shields.io/badge/Email-matvei.khitrin%40gmail.com-red?logo=gmail)](mailto:matvei.khitrin@gmail.com)</p>
+<p align="left">[![LinkedIn](<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0a164167-97e6-4cd8-a9dd-eff1fdba7770" />
+)](https://www.linkedin.com/in/matvei-khitrin-518b9725b/)<br>[![Email](https://img.shields.io/badge/Email-matvei.khitrin%40gmail.com-red?logo=gmail)](mailto:matvei.khitrin@gmail.com)</p>
 
 ###
 
@@ -59,7 +60,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.dropbox.com/scl/fi/9v6rug9io54lwrxbjhpox/image-18.png?rlkey=aofo3hssj5h31qyxkg3267qj0&st=cpmjikrf&dl=0"  />
+  <img height="200" src="[https://www.dropbox.com/scl/fi/9v6rug9io54lwrxbjhpox/image-18.png?rlkey=aofo3hssj5h31qyxkg3267qj0&st=cpmjikrf&dl=0](https://i.postimg.cc/dQyZ00Y3/image-18.png)"  />
 </div>
 
 ###
